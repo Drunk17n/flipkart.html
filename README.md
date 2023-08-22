@@ -1,4 +1,22 @@
 # Flipkart-Clone
 Flipkart clone made with html 
 ![flipkart logo](https://github.com/Drunk17n/flipkart.html/assets/128512821/f48cfa5b-c5b3-4ba5-a4e9-76a7e04281d4)
-
+![mobile_banner-transformed](https://github.com/Drunk17n/flipkart.html/assets/128512821/d5c4516e-b34e-4c0a-940e-96f5a9e2c0fa)
+![1](https://github.com/Drunk17n/flipkart.html/assets/128512821/90ab87e1-a123-4d21-a683-5f61174e09cf)
+![2](https://github.com/Drunk17n/flipkart.html/assets/128512821/6715e808-8256-49c6-9690-330a323b6331)
+![3](https://github.com/Drunk17n/flipkart.html/assets/128512821/baf30b16-5edb-4439-bf2b-ea5ba6182a01)
+![4](https://github.com/Drunk17n/flipkart.html/assets/128512821/959ab9ce-0ec7-4606-8d80-7a033cb222d2)
+![5](https://github.com/Drunk17n/flipkart.html/assets/128512821/a77650b3-c283-44c9-b082-7dcd22476724)
+![1](https://github.com/Drunk17n/flipkart.html/assets/128512821/018de516-c254-4a44-9f4a-902f29249c40)
+![2](https://github.com/Drunk17n/flipkart.html/assets/128512821/a1f479b8-8b61-4106-9574-540a577b8c67)
+![3](https://github.com/Drunk17n/flipkart.html/assets/128512821/ee5a38a8-48fa-46e5-899b-755167c29c51)
+![4](https://github.com/Drunk17n/flipkart.html/assets/128512821/e7b60a04-afb9-4fc6-843f-e34b4d1c0df9)
+![5](https://github.com/Drunk17n/flipkart.html/assets/128512821/3765ed50-9097-4d45-a577-4b7601101ea0)
+![1](https://github.com/Drunk17n/flipkart.html/assets/128512821/1fc451a4-335b-42e4-91c3-820f91e2c18f)
+![2](https://github.com/Drunk17n/flipkart.html/assets/128512821/55b63ece-5873-4503-a2b6-18bde380c9b9)
+![4](https://github.com/Drunk17n/flipkart.html/assets/128512821/b33b4268-017c-4130-b460-b05a94cd93e5)
+![5](https://github.com/Drunk17n/flipkart.html/assets/128512821/87caead4-af57-4c9e-b8f3-ef7ecc732f81)
+![1](https://github.com/Drunk17n/flipkart.html/assets/128512821/d811b0bb-1c3d-467b-91d6-41d2f6837f28)
+![2](https://github.com/Drunk17n/flipkart.html/assets/128512821/0c97ad1e-696b-4f44-b7da-223745280c33)
+![3](https://github.com/Drunk17n/flipkart.html/assets/128512821/38fb33b8-9544-45d9-a242-e09cabf9b5a3)
+![4](https://github.com/Drunk17n/flipkart.html/assets/128512821/b978782e-e990-46a4-9c12-e22b11cc0e44)
